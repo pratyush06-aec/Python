@@ -1,0 +1,6 @@
+s= set()
+a= input("Enter the data: ")
+s.add(int(a))
+a= input("Enter the data: ")
+s.add(str(a))
+print(s)

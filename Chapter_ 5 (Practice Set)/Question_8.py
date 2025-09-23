@@ -1,0 +1,19 @@
+d= {}
+
+name= input("Enter the name: ")
+language= input("Entre the language: ")
+d.update({name: language})
+
+name= input("Enter the name: ")
+language= input("Entre the language: ")
+d.update({name: language})
+
+name= input("Enter the name: ")
+language= input("Entre the language: ")
+d.update({name: language})
+
+name= input("Enter the name: ")
+language= input("Entre the language: ")
+d.update({name: language})
+
+print(d)
