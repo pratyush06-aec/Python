@@ -1,0 +1,7 @@
+with open("my_file.txt") as file:
+    content= file.read()
+
+    if("python" in content):
+        print("Python is present in the content!!!!")
+    else:
+        print("Python is not present in the content!!!!")
